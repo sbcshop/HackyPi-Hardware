@@ -9,3 +9,4 @@ HackyPi is a compact and versatile USB device powered by the RP2040 microcontrol
 * [**/Design Data**](https://github.com/sbcshop/HackyPi-Hardware/tree/main/Design%20Data) - This directory contains Schematic and Dimension files
 * [**/Mecahnical Data**](https://github.com/sbcshop/HackyPi-Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
 
+* [HackyPi Hardware](https://github.com/sbcshop/HackyPi-Software) 
